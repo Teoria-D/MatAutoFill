@@ -4,6 +4,3 @@
 詳細解説
 MatAutoFill_CMDS.py
 Substance Painterからのマテリアルをシームレスに持ってくることを想定したスクリプトです。
-
-HelloShader_v2.shader
-CGWORLDの記事を参考に作成した、光の当たっている場所、当たっていない場所で色を分けることで表現するセルシェーダーです。
