@@ -1,6 +1,4 @@
-# Teo_Codes
-主にCG関連で作成したコードのまとめです
+# MatAutoFill
 
-詳細解説
 MatAutoFill_CMDS.py
 Substance Painterからのマテリアルをシームレスに持ってくることを想定したスクリプトです。
